@@ -22,4 +22,4 @@ README.md - special file on github repos that explains content of repo
 ### Branching
 - What is a branch? A connection between local and remote.
 - git branch: command will list all the branches on your local.
-- git checkout -b + name: Create a new branch (checkout a new branch)..
+- git checkout -b + name: Create a new branch (checkout a new branch)...
