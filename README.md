@@ -16,5 +16,3 @@
 ### Markdown Info in
 - Shortcut for opening the mark down preview in Atom: `cntrl + shift + m`
 - Shortcut for opening the markdown preview in VS Code: `shift + cmd + v`
-
-updated 
